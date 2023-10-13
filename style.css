@@ -1,0 +1,14 @@
+.first-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.second-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.fifth-section {
+    display: flex;
+    flex-direction: row;
+}
